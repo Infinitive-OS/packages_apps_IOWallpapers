@@ -16,10 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>Infinitive_black</item>
+        <item>infinitive_black</item>
+        <item>infinitive_black_small</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Infinitive - Green </item>
+        <item>infinitive 1 - Customworx</item>
+        <item>infinitive 2 - Customworx</item>
     </string-array>
 </resources>
